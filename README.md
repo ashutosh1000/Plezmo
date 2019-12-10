@@ -1,2 +1,2 @@
 # Plezmo
-Plezmo app comes for Plezmo products which provides detailed augmented reality tutorials about how to use these products.
+ Plezmo augmented reality app shows the configuration and alignment of different plezmo products using augmented reality technology.
